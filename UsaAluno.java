@@ -3,5 +3,6 @@ public class UsaAluno {
 		//Criando objeto
 		AlunoEspecial a = new AlunoEspecial();
 		a.imprimeParametro();
+		a.estuda(4);
 	}
 }
